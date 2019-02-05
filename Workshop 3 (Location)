@@ -1,0 +1,22 @@
+Workshop 3 (Location)
+What is the location framework called in iOS
+
+
+What are the two numbers that determine location
+
+
+There are two keys you need to add to the info.plist in order to use gps of a device, what are they?
+Privacy - Location When In Use Usage Description
+Privacy - Location Always and When In Use Usage Description
+
+Can you explain the role of the CLLocationManager delegate that we looked at?
+
+
+How can you simulate location on the simulator?
+Select the Area
+
+How do you create a custom simulator for testing?
+New file, GPX, add and change the co-ordinates.
+
+How can you automatically tell the simulator to use this when you run your app?
+Project name (simulater), Edit Schemer, Run. Options, 'Default Location'
