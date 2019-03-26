@@ -1,0 +1,9 @@
+FireBase
+Realtime batabase- older
+Cloud Firesore- newer, updated version
+'collection' = folder
+
+1st step- write to the database
+2nd step- read from the database
+
+func save()
